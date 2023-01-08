@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShaKhzodbey
+- 👋 Hi, I’m @Shakhzod
 - 👀 I’m interested in JavaScript Programming language
 - 🌱 I’m currently learning React js framework
 - 💞️ I’m looking to collaborate on ...
